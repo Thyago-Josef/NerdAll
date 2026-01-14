@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "titulo": "Teclado Mecânico RGB Switch Blue",
+    "slug": "teclado-mecanico-rgb-shopee",
+    "preco": 149.90,
+    "imagem": "https://picsum.photos/400/300", 
+    "urlAfiliado": "https://shope.ee/link-exemplo",
+    "categoria": "Setup",
+    "descricao": "O melhor custo-benefício para quem quer um setup iluminado."
+  },
+  {
+    "id": "2",
+    "titulo": "Action Figure Monkey D. Luffy",
+    "slug": "action-figure-luffy-one-piece",
+    "preco": 89.00,
+    "imagem": "https://picsum.photos/400/301",
+    "urlAfiliado": "https://shope.ee/link-exemplo-2",
+    "categoria": "Colecionáveis",
+    "descricao": "Detalhes impressionantes nesta figura de 15cm do Rei dos Piratas."
+  }
+]
