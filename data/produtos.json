@@ -1,22 +1,56 @@
 [
   {
     "id": "1",
-    "titulo": "Teclado Mecânico RGB Switch Blue",
-    "slug": "teclado-mecanico-rgb-shopee",
-    "preco": 149.90,
-    "imagem": "https://picsum.photos/400/300", 
-    "urlAfiliado": "https://shope.ee/link-exemplo",
-    "categoria": "Setup",
-    "descricao": "O melhor custo-benefício para quem quer um setup iluminado."
+    "titulo": "Teclado Mecânico HyperX Alloy Origins Core",
+    "subtitulo": "RGB",
+    "slug": "teclado-mecanico-hyperx-alloy-origins-core-rgb",
+    "preco": 499.99,
+    "imagem": "https://images.kabum.com.br/produtos/fotos/102927/teclado-gamer-hyperx-alloy-origins-core-rgb_1587570490_g.jpg", 
+    "urlAfiliado": "https://shope.ee/link-hyperx-alloy",
+    "categoria": "Setup Gamer",
+    "descricao": "O HyperX Alloy Origins Core é um teclado mecânico compacto e robusto, ideal para gamers que buscam performance e um design minimalista. Possui switches HyperX Red, iluminação RGB vibrante e construção em alumínio aeronáutico.",
+    "detalhesTecnicos": [
+      "Switches: HyperX Red (Linear)",
+      "Iluminação: RGB personalizável por tecla",
+      "Material: Corpo em alumínio de aviação",
+      "Layout: TKL (Tenkeyless)",
+      "Conexão: USB-C destacável"
+    ],
+    "pontosPositivos": [
+      "Construção premium e durável",
+      "Switches HyperX são rápidos e responsivos",
+      "Software de personalização intuitivo (HyperX NGENUITY)",
+      "Design compacto economiza espaço na mesa"
+    ]
   },
   {
     "id": "2",
     "titulo": "Action Figure Monkey D. Luffy",
-    "slug": "action-figure-luffy-one-piece",
-    "preco": 89.00,
-    "imagem": "https://picsum.photos/400/301",
-    "urlAfiliado": "https://shope.ee/link-exemplo-2",
+    "subtitulo": "Gear 5 - Sun God Nika",
+    "slug": "action-figure-luffy-one-piece-gear-5",
+    "preco": 189.00,
+    "imagem": "https://m.media-amazon.com/images/I/61bVwD6jYXL._AC_UF894,1000_QL80_.jpg",
+    "urlAfiliado": "https://shope.ee/link-luffy-gear5",
     "categoria": "Colecionáveis",
-    "descricao": "Detalhes impressionantes nesta figura de 15cm do Rei dos Piratas."
-  }
+    "descricao": "Capture a forma mais poderosa de Luffy com esta Action Figure detalhada do Gear 5. Com articulações e acessórios, ela é perfeita para recriar suas cenas favoritas de One Piece.",
+    "detalhesTecnicos": [
+      "Altura: 18cm",
+      "Material: PVC de alta qualidade",
+      "Articulações: Múltiplos pontos articulados",
+      "Acessórios: Rostos e mãos intercambiáveis"
+    ],
+    "pontosPositivos": [
+      "Detalhes fiéis ao anime",
+      "Ótima para exibição ou recriação de cenas",
+      "Material durável",
+      "Preço acessível para colecionadores"
+    ]
+  },
+ {
+  "id": "3",
+  "titulo": "Camisa planeta dos macacos",
+  "preco": 40.00,
+  "urlAfiliado": "https://s.shopee.com.br/6Af8DYTkUG", 
+  "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-821em-mh6a5n7q6byh0f.webp"
+}
 ]
