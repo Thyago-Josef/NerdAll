@@ -31,7 +31,7 @@
     "preco": 189.00,
     "imagem": "https://m.media-amazon.com/images/I/61bVwD6jYXL._AC_UF894,1000_QL80_.jpg",
     "urlAfiliado": "https://shope.ee/link-luffy-gear5",
-    "categoria": "Colecionáveis",
+    "categoria": "Figures",
     "descricao": "Capture a forma mais poderosa de Luffy com esta Action Figure detalhada do Gear 5. Com articulações e acessórios, ela é perfeita para recriar suas cenas favoritas de One Piece.",
     "detalhesTecnicos": [
       "Altura: 18cm",
@@ -48,9 +48,15 @@
   },
  {
   "id": "3",
-  "titulo": "Camisa planeta dos macacos",
+  "titulo": "Camisa Planeta dos Macacos",
+  "subtitulo": "Estampa Sci-Fi",
+  "slug": "camisa-planeta-dos-macacos-scifi",
   "preco": 40.00,
   "urlAfiliado": "https://s.shopee.com.br/6Af8DYTkUG", 
-  "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-821em-mh6a5n7q6byh0f.webp"
+  "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-821em-mh6a5n7q6byh0f.webp",
+  "categoria": "Clothing",
+  "descricao": "Camisa temática de alta qualidade para fãs da franquia Planeta dos Macacos.",
+  "detalhesTecnicos": ["Material: 100% Algodão", "Estampa: Silk Screen"],
+  "pontosPositivos": ["Confortável", "Estampa durável"]
 }
 ]

@@ -58,7 +58,25 @@ export default function Home() {
           ))}
         </div>
       </section>
+      <footer className="w-full py-10 mt-20 border-t border-white/5 bg-[#05070a] text-center">
+        <div className="max-w-[1400px] mx-auto px-4">
+          {/* Logo reduzida no rodapé */}
+          <div className="text-xl font-black italic mb-4 opacity-50">
+            <span className="text-cyan-400">GEEK</span> <span className="text-pink-500">GUILD</span>
+          </div>
 
+          {/* Texto de Copyright */}
+          <p className="text-slate-500 text-[10px] uppercase tracking-[0.2em]">
+            © {new Date().getFullYear()} Nerd Achados - Geek Guild. Todos os direitos reservados.
+          </p>
+
+          {/* Aviso Legal (Importante para sites de afiliados) */}
+          <p className="text-slate-600 text-[9px] mt-4 max-w-2xl mx-auto leading-relaxed">
+            O Geek Guild é um site independente que participa de programas de afiliados.
+            Ao clicar em nossos links, podemos receber uma pequena comissão, o que não altera o valor final para você e nos ajuda a manter a nave espacial voando.
+          </p>
+        </div>
+      </footer>
     </main>
   );
 }

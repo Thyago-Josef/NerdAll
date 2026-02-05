@@ -13,15 +13,20 @@ export default function Header() {
 
             {/* Menu de Navegação alinhado à direita */}
             <nav className="flex gap-8">
-                {categorias.map((cat) => (
-                    <Link
-                        key={cat}
-                        href={`/categoria/${cat.toLowerCase()}`}
-                        className="text-xs uppercase font-bold tracking-widest text-slate-400 hover:text-cyan-400 transition-colors"
-                    >
-                        {cat}
-                    </Link>
-                ))}
+                {categorias.map((cat) => {
+                    // Se o nome for 'Home', o link vira '/', senão vira '/categoria/nome'
+                    const hrefFinal = cat === 'Home' ? '/' : `/categoria/${cat.toLowerCase()}`;
+
+                    return (
+                        <Link
+                            key={cat}
+                            href={hrefFinal}
+                            className="text-xs uppercase font-bold tracking-widest text-slate-400 hover:text-cyan-400 transition-colors"
+                        >
+                            {cat}
+                        </Link>
+                    );
+                })}
             </nav>
 
             {/* Div auxiliar opcional para manter o equilíbrio visual se quiser centralizar o menu, 
